@@ -39,5 +39,3 @@ Um repositório no GitHub é um espaço onde os projetos são armazenados, versi
 3. Por que é recomendado incluir um arquivo README ao criar um repositório?
 
 ---
-
-**Observação:** Certifique-se de personalizar a aula conforme necessário e encoraje a participação ativa dos alunos na criação de seus próprios repositórios.
