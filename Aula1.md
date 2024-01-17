@@ -40,5 +40,3 @@ O [GitHub](https://github.com/) é uma plataforma de hospedagem e colaboração 
 3. Como criar uma conta no GitHub?
 
 ---
-
-**Observação:** Este documento está escrito em formato Markdown para facilitar a leitura e pode ser copiado diretamente para o README.md do seu repositório no GitHub. Encoraje os alunos a explorar o GitHub após a criação da conta para solidificar o aprendizado.
